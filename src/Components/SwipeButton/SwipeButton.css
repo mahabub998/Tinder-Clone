@@ -6,28 +6,27 @@
   justify-content: space-evenly;
 }
 
-.swipeButtons .MuiIconButton-root{
-    background-color:rgb(248, 238, 238);
-    box-shadow: 0px 10px 50px 0px  rgba(18, 190, 96, 0.3) !important;
+.swipeButtons .MuiIconButton-root {
+  background-color: rgb(248, 238, 238);
+  box-shadow: 0px 10px 50px 0px rgba(18, 190, 96, 0.3) !important;
 }
-.swipeButtons__repeat{
-    /* padding: 3vw !important; */
-    color: #f5b748;
-
+.swipeButtons__repeat {
+  /* padding: 3vw !important; */
+  color: #f5b748;
 }
-.swipeButtons__left{
-    /* padding: 1vw !important; */
-    color: #ec5e6f;
+.swipeButtons__left {
+  /* padding: 1vw !important; */
+  color: #ec5e6f;
 }
-.swipeButtons__star{
-    /* padding: 3vw !important; */
-    color: #62b4f9;  
+.swipeButtons__star {
+  /* padding: 3vw !important; */
+  color: #62b4f9;
 }
-.swipeButtons__right{
-    /* padding: 3vw !important; */
-    color: #76e2b3;   
+.swipeButtons__right {
+  /* padding: 3vw !important; */
+  color: #76e2b3;
 }
-.swipeButtons__lighting{
-    /* padding: 3vw !important; */
-    color: #915dd1;   
+.swipeButtons__lighting {
+  /* padding: 3vw !important; */
+  color: #915dd1;
 }
